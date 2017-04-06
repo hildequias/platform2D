@@ -1,0 +1,2 @@
+# platform2D
+The powerful 2D feature set of Unity 5 while making an atmospheric 2D Adventure game. I explored how to build 2D games from the ground upwards. Learned how to craft informative user interfaces, how to animate and rig 2D characters from within the Editor, how to script effectively with C# and 2D Physics, how to implement dangerous obstacles, and how to develop a quest system, plus much more.
